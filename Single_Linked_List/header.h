@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-typedef struct ListNode{
+typedef struct{
 	int data;
-	struct ListNode *next;
-};
+	struct NodeLink *next;
+}NodeLink;

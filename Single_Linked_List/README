@@ -1,0 +1,13 @@
+Basic operation on are Sngle Linked List:
+	
+		* Traversing the list
+		* Inserting the element in list
+		* Deletion of element in list
+
+Inserting the element in list:
+	
+		* Inserting new node before head (at begining)
+		* Inserting new node after tail (at end of list)
+		* Inserting new node at middle of list (random location)
+
+
